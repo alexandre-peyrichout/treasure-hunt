@@ -1,0 +1,10 @@
+# carte
+C - 3 - 4
+# montagnes
+M - 1 - 0
+M - 2 - 1
+# tresors
+T - 0 - 3 - 2
+T - 1 - 3 - 3
+# aventurier
+A - Lara - 1 - 1 - S - AADADAGGA
